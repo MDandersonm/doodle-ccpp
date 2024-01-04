@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="02_pointer.c" />
     <ClCompile Include="ex01.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

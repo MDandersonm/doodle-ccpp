@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main01()
 {
 	//int a, b;
 	//scanf("%d%d", &a, &b);
@@ -29,6 +29,6 @@ int main()
 	printf("%s ¿‘¥œ¥Ÿ", s);
 	int length1 = sizeof(s) / sizeof(s[0]);
 	printf("%d",length1);
-	
 
+	return 0;
 }
